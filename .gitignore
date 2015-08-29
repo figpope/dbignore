@@ -1,5 +1,12 @@
+# Intellij
+.idea
+
+# Haskell
+**/dist
 *.o
 *.hi
+
+# Build Artifacts
 .dbignore
 ignore_stub.h
 *.dylib
