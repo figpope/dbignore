@@ -72,7 +72,6 @@ import Control.Monad       (liftM, liftM3, liftM4)
 #ifdef APPLICATIVE_IN_BASE
 import Control.Monad       (ap)
 import Control.Applicative (Applicative(..), (<$>))
-import Data.Foldable       (Foldable(..))
 import Data.Traversable    (Traversable(traverse))
 #endif
 
